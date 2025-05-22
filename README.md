@@ -105,3 +105,16 @@ You can check out the GitHub Explore website [at github.com/explore](https://git
 * [GitHub's Learning Lab](https://lab.github.com/)
 * [Education community forum](https://education.github.community/)
 * [GitHub community forum](https://github.community/)
+
+
+# Editing the Readme over here...
+Here's about rebasing: 
+The git rebase command allows us to change a series of commits in a single go.
+Typically, you would use git rebase to:
+
+Edit previous commit messages
+Combine multiple commits into one
+Delete or revert commits that are no longer necessary
+
+Refer here: 
+https://docs.github.com/en/get-started/using-git/about-git-rebase
